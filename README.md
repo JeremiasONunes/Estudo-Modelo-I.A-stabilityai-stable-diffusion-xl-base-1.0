@@ -52,7 +52,7 @@ Se necessário, configure o modelo para **offloading de CPU** ou use otimizaçõ
 
 ## Exemplos de Uso
 
-### Não é necessario fazer um clone do projeto
+### Não é necessário fazer um clone do projeto.
 
 Não é necessário clonar o modelo diretamente para sua máquina, pois o DiffusionPipeline da biblioteca diffusers permite carregar os modelos diretamente da plataforma Hugging Face. Quando você usa o método from_pretrained, ele faz o download automático dos arquivos necessários e os armazena localmente (normalmente em um cache, como ~/.cache/huggingface).
 
