@@ -303,8 +303,7 @@ O SDXL é um modelo de código aberto. Para contribuir, acesse o [repositório n
 
 ---
 
-Este README fornece uma visão abrangente do SDXL, detalhando seu uso e características. Explore as possibilidades criativas e aplique em seus projetos!
-
+### Imagens Geradas com este modelo de I.A
 
 ![Imagem Gerada](An_astronaut_riding_green_horse.jpg)
 
